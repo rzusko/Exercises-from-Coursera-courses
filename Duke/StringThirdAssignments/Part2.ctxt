@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Part2
+comment0.text=\r\n\ Trieda\ {@code\ Part2}\ sl\u00FA\u017Ei\ \u00ABdopl\u0148te\ opis\u00BB\u2026\r\n\r\n\ @author\ \ \ \ \ \ \ \ {meno\ autora}\r\n\ @version\ \ \ \ \ \ \ \ {verzia\ alebo\ d\u00E1tum}\r\n
+comment1.params=dna
+comment1.target=double\ cgRatio(java.lang.String)
+comment2.params=dna
+comment2.target=int\ countCTG(java.lang.String)
+comment3.params=
+comment3.target=void\ testCgRatio()
+comment4.params=
+comment4.target=void\ testCountCTG()
+numComments=5

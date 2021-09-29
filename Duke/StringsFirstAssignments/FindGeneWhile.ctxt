@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FindGeneWhile
+comment0.text=\r\n\ Trieda\ {@code\ FindGeneWhile}\ sl\u00FA\u017Ei\ \u00ABdopl\u0148te\ opis\u00BB\u2026\r\n\r\n\ @author\ \ \ \ \ \ \ \ {meno\ autora}\r\n\ @version\ \ \ \ \ \ \ \ {verzia\ alebo\ d\u00E1tum}\r\n
+comment1.params=dna
+comment1.target=java.lang.String\ fingGene(java.lang.String)
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Assignment2
+comment1.params=inFile
+comment1.target=edu.duke.ImageResource\ makeInverted(edu.duke.ImageResource)
+comment2.params=
+comment2.target=void\ saveInverted()
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Part2
+comment0.text=\r\n\ Trieda\ {@code\ Part2}\ sl\u00FA\u017Ei\ \u00ABdopl\u0148te\ opis\u00BB\u2026\r\n\r\n\ @author\ \ \ \ \ \ \ \ {meno\ autora}\r\n\ @version\ \ \ \ \ \ \ \ {verzia\ alebo\ d\u00E1tum}\r\n
+comment1.params=stringa\ stringb
+comment1.target=int\ howMany(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ testHowMany()
+numComments=3

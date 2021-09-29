@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Part3
+comment0.text=\r\n\ Trieda\ {@code\ Part3}\ sl\u00FA\u017Ei\ \u00ABdopl\u0148te\ opis\u00BB\u2026\r\n\r\n\ @author\ \ \ \ \ \ \ \ {meno\ autora}\r\n\ @version\ \ \ \ \ \ \ \ {verzia\ alebo\ d\u00E1tum}\r\n
+comment1.params=stringa\ stringb
+comment1.target=boolean\ twoOccurrences(java.lang.String,\ java.lang.String)
+comment2.params=stringa\ stringb
+comment2.target=java.lang.String\ lastPart(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ testing()
+numComments=4

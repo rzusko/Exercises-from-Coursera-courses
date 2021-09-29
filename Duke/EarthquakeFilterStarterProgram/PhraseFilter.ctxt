@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PhraseFilter
+comment0.text=\r\n\ Trieda\ {@code\ PhraseFilter}\ sl\u00FA\u017Ei\ \u00ABdopl\u0148te\ opis\u00BB\u2026\r\n\r\n\ @author\ \ \ \ \ \ \ \ {meno\ autora}\r\n\ @version\ \ \ \ \ \ \ \ {verzia\ alebo\ d\u00E1tum}\r\n
+comment1.params=name\ where\ phrase
+comment1.target=PhraseFilter(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=qe
+comment2.target=boolean\ satisfies(QuakeEntry)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4

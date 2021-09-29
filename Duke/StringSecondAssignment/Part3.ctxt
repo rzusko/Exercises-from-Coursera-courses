@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Part3
+comment0.text=\r\n\ Trieda\ {@code\ Part3}\ sl\u00FA\u017Ei\ \u00ABdopl\u0148te\ opis\u00BB\u2026\r\n\r\n\ @author\ \ \ \ \ \ \ \ {meno\ autora}\r\n\ @version\ \ \ \ \ \ \ \ {verzia\ alebo\ d\u00E1tum}\r\n
+comment1.params=dna\ startIndex\ stopCodon
+comment1.target=int\ findStopCodon(java.lang.String,\ int,\ java.lang.String)
+comment2.params=dna\ where
+comment2.target=java.lang.String\ findGene(java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ testFindStopCodon()
+comment4.params=
+comment4.target=void\ testFindGene()
+comment5.params=dna
+comment5.target=void\ printAllGenes(java.lang.String)
+comment6.params=
+comment6.target=void\ testPrintAllGenes()
+comment7.params=dna
+comment7.target=int\ countGenes(java.lang.String)
+comment8.params=
+comment8.target=void\ testCountGenes()
+numComments=9
